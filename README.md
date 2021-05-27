@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sat-hub1
+- 👋 Hi, I’m Satkar
 - 👀 I’m interested in coding, game dev, app dev, web dev
 - 🌱 I’m currently learning python, oop, cpp
 - 💞️ I’m looking to collaborate on game and app dev
