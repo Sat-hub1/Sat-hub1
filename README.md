@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Satkar
-- 👀 I’m interested in coding, game dev, app dev, web dev
-- 🌱 I’m currently learning python, oop, cpp
-- 💞️ I’m looking to collaborate on game and app dev
-- 📫 How to reach me 
-    : Email me at satkar147258369@gmail.com
+- 👋 Hi
 
 <!---
 Sat-hub1/Sat-hub1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
